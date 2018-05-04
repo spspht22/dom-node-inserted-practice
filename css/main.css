@@ -1,0 +1,10 @@
+.center {
+	margin: 0 auto;
+	width: 30%;	
+}
+
+button {
+	position: fixed;
+	top: 30px;
+	right: 130px;
+}
